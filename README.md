@@ -11,9 +11,9 @@
 <center><p style="color:#f0e3be;"> <b>1. PERPUSTAKAAN UNIVERSITAS SUMATERA UTARA</b></p>
 &emsp;<a href="https://library.usu.ac.id/"> <img src="perpususu.jpeg;" style="width:500px;height:300px;"> </a>
 <p style ="color:#f0e3be;"> <b>2. PERPUSTAKAAN UNIVERSITAS MEDAN</b></p>
-&emsp;<a href="https://perpustakaan.unimed.ac.id/"> <img src="perpus unimed.jpeg"style="width:500px;height:300px;"> </a>
+&emsp;<a href="https://perpustakaan.unimed.ac.id/"> <img src="perpus unimed.jpeg;"style="width:500px;height:300px;"> </a>
 <p style="color:#f0e3be;"> <b>3. PERPUSTAKAAN UNIVERSITAS MEDAN AREA</b></p>
-&emsp;<a href="https://perpustakaan.uma.ac.id/"> <img src="perpus uma.jpg"style="width:500px;height:300px;"> </a></center>
+&emsp;<a href="https://perpustakaan.uma.ac.id/"> <img src="perpus uma.jpg;"style="width:500px;height:300px;"> </a></center>
 
 
 	<center> <b><h1 style="font:times new roman size 45px;background-color: rgb(107, 63, 4);">Audio dan Video</h1></b></center>
