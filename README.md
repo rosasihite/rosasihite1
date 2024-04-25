@@ -1,28 +1,23 @@
-
 <!DOCTYPE html>
-<html>
 <head>
 	<title> Personal Website </title>
+	<style>
+		<body style="background-color: rgb(172, 101, 9);"> 
+	</style>
 </head>
-</body>
+<body>
 <center><b><h1 style="font:times new roman size 45px;background-color: rgb(107, 63, 4);">Contoh Perpustakaan Universitas</h1></b></center>
-<body style="background-color: rgb(172, 101, 9);"> 
-<br/>
+
 <center><p style="color:#f0e3be;"> <b>1. PERPUSTAKAAN UNIVERSITAS SUMATERA UTARA</b></p>
 &emsp;<a href="https://library.usu.ac.id/"> <img src="perpususu.jpeg"style="width:500px;height:300px;"> </a>
 <p style ="color:#f0e3be;"> <b>2. PERPUSTAKAAN UNIVERSITAS MEDAN</b></p>
 &emsp;<a href="https://perpustakaan.unimed.ac.id/"> <img src="perpus unimed.jpeg"style="width:500px;height:300px;"> </a>
 <p style="color:#f0e3be;"> <b>3. PERPUSTAKAAN UNIVERSITAS MEDAN AREA</b></p>
 &emsp;<a href="https://perpustakaan.uma.ac.id/"> <img src="perpus uma.jpg"style="width:500px;height:300px;"> </a></center>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
+
+
 	<center> <b><h1 style="font:times new roman size 45px;background-color: rgb(107, 63, 4);">Audio dan Video</h1></b></center>
 	<body style="background-color: rgb(172, 101, 9);"> 
-</body>
-<br/>
 <p><b>Contoh Audio</b></p>
 <audio controls>
 <source src="TAEYONG_TAP.mp3"type="audio/mpeg">
@@ -31,10 +26,6 @@
  <video controls width="720" height="500">
 <source src="TAEYONG_TAP_MV.mp4"type="video/mp4">
 </video>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
 
 <body style="background-color: rgb(0, 0, 0);"> 
 <center><b><h2 style="font:times new roman size 30px; ">Formulir Keanggotaan Perpustakaan</h2></b></center>
@@ -101,9 +92,7 @@
       <td>1971</td>
     </tr>
     </table>
-</html>
 
-<head>
   <center><b><h2 style="font:times new roman size 20px; ">Formulir Pemesanan Buku</h2></b></center>
   <form align="center">
         
@@ -131,9 +120,7 @@
      
        </table>
        </form>
-</head>
 
-</body>
 <center><b><h2 style="font:times new roman size 20px;">Formulir Perpanjangan Masa Pinjam</h2></b></center>
 <form align="center">
   <tr>
@@ -154,16 +141,12 @@
       </td>
       </tr>
     </table>
-   
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
+
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>HTML dan CSS</title>
         <link rel="stylesheet" href="css.css">
-    </head>
-    <body>
+  
         <div class="container">
             <div class="html">
                 <h2>HTML</h2>
@@ -176,9 +159,7 @@
         </div>
     </body>
     
-    </html>  
     <footer style="background-color: black; text-align: center;">
       <p>&copy;  by Rosa Agustina Sihite (210709072) </p>
   </footer>
-</body>
-</html># rosasihitepersonal
+</html>
